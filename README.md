@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tomasz Bednorz
 
-🚀 Embedded Systems | 🔧 Motor Control | 🚗 Automotive
+🚀 Embedded Systems | ⚙️ Motor Control | 🚗 Automotive
 
 I specialize in embedded systems, especially in automotive and motor control. Below you can see my projects. Feel free to explore my work.
 
@@ -8,8 +8,8 @@ I specialize in embedded systems, especially in automotive and motor control. Be
 
 ## 🏆 Major Projects
 
-### 🔹 BLDC Motor Controller
-[![BLDC_Controller](h![image](https://github.com/user-attachments/assets/dd0f07f5-29c0-4421-b32a-284fca49af27))](https://github.com/TomaszBednorz/BLDC_Controller)
+### 🔹 [BLDC Motor Controller](https://github.com/TomaszBednorz/BLDC_Controller)
+[![BLDC_Controller](https://github.com/user-attachments/assets/dd0f07f5-29c0-4421-b32a-284fca49af27)](https://github.com/TomaszBednorz/BLDC_Controller)
 
 **Keywords:** BLDC, FOC, Motor Control, Embedded C, Power Electronics  
 **Microcontroller:** XMC4300  
@@ -18,8 +18,8 @@ I specialize in embedded systems, especially in automotive and motor control. Be
 
 ---
 
-### 🔹 IMU Sensor Module
-[![IMU_Sensor](![image](https://github.com/user-attachments/assets/32044be6-4c6a-4796-849e-058d41b1c4b0))](https://github.com/TomaszBednorz/IMU_Sensor)
+### 🔹 [IMU Sensor Module](https://github.com/TomaszBednorz/IMU_Sensor)
+[![IMU_Sensor](https://github.com/user-attachments/assets/32044be6-4c6a-4796-849e-058d41b1c4b0)](https://github.com/TomaszBednorz/IMU_Sensor)
 
 **Keywords:** IMU, Sensor Fusion, Kalman Filter, SPI, Embedded Systems  
 **Microcontroller:** STM32  
@@ -30,8 +30,8 @@ I specialize in embedded systems, especially in automotive and motor control. Be
 
 ## 🔧 Minor Projects 
 
-### 🔹 SmartBox (In Progress)
-[![SmartBox_firmware](![image](https://github.com/user-attachments/assets/0be54052-11d8-48a7-bad6-cfb930e22366))](https://github.com/TomaszBednorz/SmartBox_firmware)
+### 🔹 [SmartBox (In Progress)](https://github.com/TomaszBednorz/SmartBox_firmware)
+[![SmartBox_firmware](https://github.com/user-attachments/assets/0be54052-11d8-48a7-bad6-cfb930e22366)](https://github.com/TomaszBednorz/SmartBox_firmware)
 
 **Keywords:** IoT, Embedded Systems, Data Logging, Wireless Communication  
 **Microcontroller:** ESP32  
