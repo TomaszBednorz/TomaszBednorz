@@ -38,7 +38,6 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 ---
 
 ## 📫 Contact
-💻 GitHub: [TomaszBednorz](https://github.com/TomaszBednorz)  
 📧 Email: [tomasz.bednorz99@gmail.com](mailto:tomasz.bednorz99@gmail.com)  
 🔗 LinkedIn: [Tomasz Bednorz](https://www.linkedin.com/in/tomasz-bednorz-6492421b2/)  
 
