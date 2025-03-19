@@ -32,7 +32,7 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 [<img src="https://github.com/user-attachments/assets/0be54052-11d8-48a7-bad6-cfb930e22366" width="200"/>](https://github.com/TomaszBednorz/SmartBox_firmware)
 
 **Microcontroller:** nRF5340  
-**Keywords:** Zephyr OS, BLE, 2-core MCU  
+**Keywords:** Zephyr OS, BLE, 2-core MCU , VBAT monitoring
 **Description:** An IoT device with basic features like a pedometer and LED control, logging data via Bluetooth Low Energy.
 
 ---
