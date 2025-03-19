@@ -12,7 +12,7 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 [<img src="https://github.com/user-attachments/assets/dd0f07f5-29c0-4421-b32a-284fca49af27" width="250"/>](https://github.com/TomaszBednorz/BLDC_Controller)
 
 **Microcontroller:** Infineon XMC4300  
-**Keywords:** BLDC, Trapezoidal Commutation, Motor Control, Hall Sensors, Bare-metal, PID, BEMF, EtherCAT
+**Keywords:** BLDC, Trapezoidal Commutation, Motor Control, Hall Sensors, Bare-metal, PID, BEMF, EtherCAT  
 **Description:** A custom BLDC motor controller with shaft position feedback based on a Hall sensor.
 
 ---
@@ -21,7 +21,7 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 [<img src="https://github.com/user-attachments/assets/32044be6-4c6a-4796-849e-058d41b1c4b0" width="250"/>](https://github.com/TomaszBednorz/IMU_Sensor)
 
 **Microcontroller:** STM32L433  
-**Keywords:** IMU, Ethernet, TCP 
+**Keywords:** FreeRTOS, IMU, Ethernet, TCP  
 **Description:** An IMU sensor module for orientation detection.
 
 ---
@@ -31,9 +31,9 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 ### 🔹 [SmartBox (In Progress)](https://github.com/TomaszBednorz/SmartBox_firmware)
 [<img src="https://github.com/user-attachments/assets/0be54052-11d8-48a7-bad6-cfb930e22366" width="200"/>](https://github.com/TomaszBednorz/SmartBox_firmware)
 
-**Microcontroller:** nRF5340
-**Keywords:** BLE, 2-core MCU, 
-**Description:** An IoT device with basic features like a pedometer and LED control, logging data via Bluetooth Low Energy. 
+**Microcontroller:** nRF5340  
+**Keywords:** Zephyr OS, BLE, 2-core MCU  
+**Description:** An IoT device with basic features like a pedometer and LED control, logging data via Bluetooth Low Energy.
 
 ---
 
