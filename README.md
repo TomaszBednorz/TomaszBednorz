@@ -33,7 +33,7 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 
 **Microcontroller:** nRF5340  
 **Keywords:** Zephyr OS, BLE, 2-core MCU , VBAT monitoring  
-**Description:** An IoT device with basic features like a pedometer and LED control, logging data via Bluetooth Low Energy.
+**Description:** An IoT device with basic features like a pedometer, VBAT monitoring, and LED control, logging data via Bluetooth Low Energy.
 
 ---
 
