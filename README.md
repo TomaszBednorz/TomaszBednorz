@@ -12,9 +12,9 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 [<img src="https://github.com/user-attachments/assets/dd0f07f5-29c0-4421-b32a-284fca49af27" width="250"/>](https://github.com/TomaszBednorz/BLDC_Controller)
 
 **Microcontroller:** Infineon XMC4300  
-**Keywords:** BLDC, Trapezoidal Commutation, Motor Control, Hall Sensors, Bare-metal, PID, BEMF, EtherCAT 
-**Custom PCB (Designed by Author):** YES
-**Description:** A custom BLDC motor controller with shaft position feedback based on a Hall sensor.
+**Keywords:** BLDC, Trapezoidal Commutation, Motor Control, Hall Sensors, Bare-metal, PID, BEMF, EtherCAT  
+**Custom PCB (Designed by Author):** YES  
+**Description:** A custom BLDC motor controller with shaft position feedback based on a Hall sensor.  
 
 ---
 
@@ -23,15 +23,15 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 
 **Microcontroller:** STM32L433  
 **Keywords:** FreeRTOS, IMU, Ethernet, TCP  
-**Custom PCB (Designed by Author):** YES
-**Description:** An IMU sensor module for orientation detection.
+**Custom PCB (Designed by Author):** YES  
+**Description:** An IMU sensor module for orientation detection.  
 
 ### 🔹 [FOC Controller [IN PROGRESS]](https://github.com/TomaszBednorz/FOC_Controller)
 
 **Microcontroller:** STM32G4  
-**Keywords:** TBD
-**Custom PCB (Designed by Author):** YES (in progress)
-**Description:** TBD
+**Keywords:** TBD  
+**Custom PCB (Designed by Author):** YES (in progress)  
+**Description:** TBD  
 
 ---
 
@@ -42,8 +42,8 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 
 **Microcontroller:** nRF5340  
 **Keywords:** Zephyr OS, BLE, 2-core MCU , VBAT monitoring  
-**Custom PCB (Designed by Author):** NO
-**Description:** An IoT device with basic features like a VBAT monitoring, LED control, logging data via Bluetooth Low Energy.
+**Custom PCB (Designed by Author):** NO  
+**Description:** An IoT device with basic features like a VBAT monitoring, LED control, logging data via Bluetooth Low Energy.  
 
 ---
 
