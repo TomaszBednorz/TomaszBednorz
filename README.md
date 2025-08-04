@@ -46,7 +46,7 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 **Microcontroller:** STM32G4  
 **Keywords:** PCB design, Field Oriented Control, CAN FD  
 **Custom PCB (Designed by Author):** YES  
-**Description:** TBD  
+**Description:** A custom PMSM motor controller with shaft position feedback based on a Hall sensor. Software part of this project will be developed in the future.
 
 ---
 
