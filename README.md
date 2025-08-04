@@ -26,13 +26,6 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 **Custom PCB (Designed by Author):** YES  
 **Description:** An IMU sensor module for orientation detection.  
 
-### 🔹 [FOC Controller [IN PROGRESS]](https://github.com/TomaszBednorz/FOC_Controller)
-
-**Microcontroller:** STM32G4  
-**Keywords:** TBD  
-**Custom PCB (Designed by Author):** YES (in progress)  
-**Description:** TBD  
-
 ---
 
 ## 🔧 Minor Projects 
@@ -44,6 +37,16 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 **Keywords:** Zephyr OS, BLE, 2-core MCU , VBAT monitoring  
 **Custom PCB (Designed by Author):** NO  
 **Description:** An IoT device with basic features like a VBAT monitoring, LED control, logging data via Bluetooth Low Energy.  
+
+---
+
+### 🔹 [FOC Controller [Hardware only]](https://github.com/TomaszBednorz/FOC_Controller)
+[<img src="https://github.com/user-attachments/assets/2b668077-7dd8-4f7e-8173-ca9abd862375" width="250"/>](https://github.com/TomaszBednorz/FOC_Controller)
+
+**Microcontroller:** STM32G4  
+**Keywords:** PCB design, Field Oriented Control, CAN FD  
+**Custom PCB (Designed by Author):** YES  
+**Description:** TBD  
 
 ---
 
