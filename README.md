@@ -50,7 +50,7 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 
 ---
 
-## 🔧 Embedded Linux
+## 🐧 Embedded Linux
 
 ### 🔹 [IMU driver (SPI)](https://github.com/TomaszBednorz/bbb-spi-driver)
 **Board:** BeagleBoneBlack  
