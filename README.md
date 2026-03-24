@@ -54,9 +54,9 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 
 ### 🔹 [IMU driver (SPI)](https://github.com/TomaszBednorz/bbb-spi-driver)
 **Board:** BeagleBoneBlack  
-**Keywords:** Device Driver, Devicetree  
+**Keywords:** IMU, SPI, Device Driver IIO, Devicetree  
 **Custom PCB (Designed by Author):** NO  
-**Description:** IN PROGRESS  
+**Description:** A basic SPI driver for an IMU on BeagleBone Black. Functional and ready, with potential for further development. 
 
 ## 📫 Contact
 📧 Email: [tomasz.bednorz99@gmail.com](mailto:tomasz.bednorz99@gmail.com)  
