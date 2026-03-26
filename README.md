@@ -53,6 +53,8 @@ I specialize in embedded systems, particularly in automotive and motor control. 
 ## 🐧 Embedded Linux
 
 ### 🔹 [IMU driver (SPI)](https://github.com/TomaszBednorz/bbb-spi-driver)
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/0fe110f8-8807-4cd6-b95d-2ea6e3091cc3" />
+
 **Board:** BeagleBoneBlack  
 **Keywords:** IMU, SPI, Device Driver IIO, Devicetree  
 **Custom PCB (Designed by Author):** NO  
